@@ -1,0 +1,55 @@
+.masthead {
+  background-color: #545454;
+  padding-top: calc(0.5rem + 15px);
+  padding-bottom: 3rem;
+  .masthead-heading {
+    font-size: 2.75rem;
+    line-height: 2.75rem;
+  }
+  .masthead-subheading {
+    font-size: 1.25rem;
+  }
+  .masthead-avatar {
+    width: 15rem;
+  }
+}
+
+
+.carousel-item {
+    height: 30vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.divider-custom {
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.divider-custom .divider-custom-line {
+    width: 100%;
+    max-width: 7rem;
+    height: .25rem;
+   
+  
+}
+
+.divider-custom.divider-light .divider-custom-line {
+  background-color: #fff;
+}
+.divider-custom .divider-custom-line:last-child {
+  margin-left: 0rem;
+}
+
+.divider-custom .divider-custom-icon {
+  color: #fff ;
+  font-size: 2rem;
+}
+
