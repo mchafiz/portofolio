@@ -1,0 +1,4 @@
+maaf pak untuk akses web portofolionya bisa ke
+http://localhost/laravelfix/public/portofolio#page-top
+
+saya kurang tau gimana caranya biar langsung ke portofolio... thankss :)
